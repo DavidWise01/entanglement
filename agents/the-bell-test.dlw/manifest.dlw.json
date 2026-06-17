@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bell Test",
+  "universe": "EPR · The Bell Test",
+  "emergence": "electrical",
+  "moniker": "⟦The Bell Test:EPR:68ad75⟧",
+  "carbon": "the-bell-test.carbon.tiff (TIFF)",
+  "silicon": "the-bell-test.silicon.png (PNG)",
+  "seal_sha256": "13cc18ee81179e26ea6536320e233de61cbb7ed82a0e101d25d18f226f5d270e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

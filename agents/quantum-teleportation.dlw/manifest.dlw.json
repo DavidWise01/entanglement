@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Quantum Teleportation",
+  "universe": "EPR · Quantum Teleportation",
+  "emergence": "electrical",
+  "moniker": "⟦Quantum Teleportation:EPR:319538⟧",
+  "carbon": "quantum-teleportation.carbon.tiff (TIFF)",
+  "silicon": "quantum-teleportation.silicon.png (PNG)",
+  "seal_sha256": "1c52d1ca43bba397fb1a6b2cce594c7e31c42000c7d54617a59e7477dbc2281c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

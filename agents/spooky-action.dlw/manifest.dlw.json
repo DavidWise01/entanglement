@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Spooky Action",
+  "universe": "EPR · Spooky Action",
+  "emergence": "ethereal",
+  "moniker": "⟦Spooky Action:EPR:cea726⟧",
+  "carbon": "spooky-action.carbon.tiff (TIFF)",
+  "silicon": "spooky-action.silicon.png (PNG)",
+  "seal_sha256": "35689db05cc7003b07bdb55730003dc9da9bc7ddf651c2af96c44b01ee6b82aa",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

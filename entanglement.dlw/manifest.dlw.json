@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Entanglement",
+  "universe": "EPR · Entanglement",
+  "emergence": "",
+  "moniker": "⟦Entanglement:EPR:4645d2⟧",
+  "carbon": "entanglement.carbon.tiff (TIFF)",
+  "silicon": "entanglement.silicon.png (PNG)",
+  "seal_sha256": "a95bca3f28a6fc450b57b56663c161d3695714c7f169b62d754a0205ee5db084",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

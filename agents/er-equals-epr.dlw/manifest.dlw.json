@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ER = EPR",
+  "universe": "EPR · ER = EPR",
+  "emergence": "ethereal",
+  "moniker": "⟦ER = EPR:EPR:bb8f19⟧",
+  "carbon": "er-equals-epr.carbon.tiff (TIFF)",
+  "silicon": "er-equals-epr.silicon.png (PNG)",
+  "seal_sha256": "2b575b6e9d2270667dbe4810cc7c4f6244702b33bf68245aa97507c683611e9f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

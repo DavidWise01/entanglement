@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Bell's Theorem",
+  "universe": "EPR · Bell's Theorem",
+  "emergence": "spiritual",
+  "moniker": "⟦Bell's Theorem:EPR:0151af⟧",
+  "carbon": "bells-theorem.carbon.tiff (TIFF)",
+  "silicon": "bells-theorem.silicon.png (PNG)",
+  "seal_sha256": "f6ed038b41989539b5d44d2fc7baa2931270c454d9a08ba73aa141c1a5ce04b0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

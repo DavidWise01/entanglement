@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bell Pair",
+  "universe": "EPR · The Bell Pair",
+  "emergence": "electrical",
+  "moniker": "⟦The Bell Pair:EPR:c131b2⟧",
+  "carbon": "the-bell-pair.carbon.tiff (TIFF)",
+  "silicon": "the-bell-pair.silicon.png (PNG)",
+  "seal_sha256": "e3dd48f483e71ee3576e5ffe0b4bdae4a41c094234f7655b90a38bbf0495c810",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "the-entanglement",
+    "name": "Entanglement",
+    "epithet": "one state, two places · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Entanglement:EPR:eb2e01⟧"
+  },
+  {
+    "slug": "the-epr-paradox",
+    "name": "The EPR Paradox",
+    "epithet": "Einstein's objection · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The EPR Paradox:EPR:653975⟧"
+  },
+  {
+    "slug": "bells-theorem",
+    "name": "Bell's Theorem",
+    "epithet": "the number that decided it · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Bell's Theorem:EPR:0151af⟧"
+  },
+  {
+    "slug": "the-bell-test",
+    "name": "The Bell Test",
+    "epithet": "Clauser · Aspect · Zeilinger · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Bell Test:EPR:68ad75⟧"
+  },
+  {
+    "slug": "spooky-action",
+    "name": "Spooky Action",
+    "epithet": "nonlocality, confirmed · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Spooky Action:EPR:cea726⟧"
+  },
+  {
+    "slug": "the-no-communication-theorem",
+    "name": "The No-Communication Theorem",
+    "epithet": "the honest limit · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The No-Communication Theorem:EPR:aed31a⟧"
+  },
+  {
+    "slug": "quantum-teleportation",
+    "name": "Quantum Teleportation",
+    "epithet": "a state, moved · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Quantum Teleportation:EPR:319538⟧"
+  },
+  {
+    "slug": "er-equals-epr",
+    "name": "ER = EPR",
+    "epithet": "entanglement as geometry · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦ER = EPR:EPR:bb8f19⟧"
+  },
+  {
+    "slug": "the-bell-pair",
+    "name": "The Bell Pair",
+    "epithet": "the unit of the resource · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Bell Pair:EPR:c131b2⟧"
+  }
+]
